@@ -28,4 +28,3 @@ print(Circulo.pi2())
 print(circulo1.perimetro)
 print(circulo1.pi)
 
-print(Circulo.suma())
